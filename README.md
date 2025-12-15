@@ -35,14 +35,13 @@ Flora Vision is a CNN-based machine learning application developed to identify f
 
 | Component        | Technology |
 |------------------|------------|
-| Framework        | Flask / Django (Web Backend) |
-| Frontend         | HTML, CSS, JavaScript |
+| Framework        | Flask (python) |
+| Frontend         | HTML, CSS |
 | Language         | Python |
 | ML Model         | Convolutional Neural Network (CNN) |
-| Deep Learning Lib| TensorFlow / Keras |
-| Optimizer        | Adam |
+| Deep Learning Lib| TensorFlow , Keras |
 | Dataset Source   | Kaggle |
-| Deployment       | Localhost |
+| Deployment Tool  | VS Code |
 
 
 # 🚀 Getting Started
